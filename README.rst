@@ -16,7 +16,9 @@ HATE-ITA is a binary hate speech classification model for Italian social media t
    :align: center
    :width: 200px
 
-For details, see our paper published in the `WOAH workshop at NAACL 2022 <https://www.workshopononlineabuse.com/home>`_ , and the model on the `🤗 Hugging Face model hub <https://huggingface.co/MilaNLProc/hate-ita>`_ .
+See the paper for additional details:
+
+Debora Nozza, Federico Bianchi, and Giuseppe Attanasio. 2022. HATE-ITA: New Baselines for Hate Speech Detection in Italian. In Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), pages 252–260, Seattle, Washington (Hybrid). Association for Computational Linguistics. `Link <https://aclanthology.org/2022.woah-1.24/>`_
 
 ----------
 
