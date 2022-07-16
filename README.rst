@@ -2,10 +2,9 @@
 HATE-ITA: Hate Speech Detection in Italian Social Media Text
 ==============================================================
 
-
 `Debora Nozza <http://dnozza.github.io/>`_ •
 `Federico Bianchi <https://federicobianchi.io/>`_ •
-`Giuseppe Attanasio <https://gattanasio.cc/>`_ 
+`Giuseppe Attanasio <https://gattanasio.cc/>`_
 
 Model description
 --------
