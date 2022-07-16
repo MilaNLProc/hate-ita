@@ -49,13 +49,17 @@ Features
 Models
 ------
 
-+------------+---------------------------------------------+----------------------+
-| Model      | Link                                        | Macro F1 on Test Set |
-+------------+---------------------------------------------+----------------------+
-| HATE-ITA   | https://huggingface.co/MilaNLProc/hate-ita  | 0.83                 |
-+------------+---------------------------------------------+----------------------+
-| HATE-ITA-L | TBD                                         | TBD                  |
-+------------+---------------------------------------------+----------------------+
+We release three models (see the paper for reference).
+
+.. code-block:: python
+
+    from hate-ita.classifier import HateSpeechClassifier
+    hc = HateSpeechClassifier("twitter")
+
+    hc = HateSpeechClassifier("base")
+
+    hc = HateSpeechClassifier("large")
+
 
 Reference
 ---------
