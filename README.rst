@@ -43,7 +43,7 @@ Features
 
     hc.predict(["ti odio", "come si fa a rompere la lavatrice porca puttana"])
 
-    >> ["hate", "non-hate"]
+    >> ["hate", "not-hate"]
 
 
 Models
