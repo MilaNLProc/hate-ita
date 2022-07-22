@@ -27,8 +27,9 @@ Installing
 ----------
 
 .. code-block:: bash
-
-    pip install -U hate-ita
+    !git clone https://github.com/MilaNLProc/hate-ita/
+    !cd hate-ita
+    pip install -e .
 
 **Important**: If you want to use CUDA you need to install the correct version of
 the CUDA systems that matches your distribution, see `PyTorch <https://pytorch.org/get-started/locally/>`__.
