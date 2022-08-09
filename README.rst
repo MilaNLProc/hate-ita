@@ -69,13 +69,20 @@ If you use this tool please cite the following paper:
 
 .. code-block::
 
-    @inproceedings{nozza-etal-2022-hate-ita,
-        title = {{HATE-ITA}: Hate Speech Detection in Italian Social Media Text},
-        author = "Nozza, Debora and Bianchi, Federico and Attanasio, Giuseppe",
-        booktitle = "Proceedings of the 6th Workshop on Online Abuse and Harms",
-        year = "2022",
-        publisher = "Association for Computational Linguistics"
-    }
+   @inproceedings{nozza-etal-2022-hate,
+       title = "{HATE}-{ITA}: Hate Speech Detection in {I}talian Social Media Text",
+       author = "Nozza, Debora  and
+         Bianchi, Federico  and
+         Attanasio, Giuseppe",
+       booktitle = "Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)",
+       month = jul,
+       year = "2022",
+       address = "Seattle, Washington (Hybrid)",
+       publisher = "Association for Computational Linguistics",
+       url = "https://aclanthology.org/2022.woah-1.24",
+       doi = "10.18653/v1/2022.woah-1.24",
+       pages = "252--260"
+   }
 
 Credits
 -------
