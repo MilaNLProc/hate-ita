@@ -39,7 +39,7 @@ Features
 
 .. code-block:: python
 
-    from hate-ita.classifier import HateSpeechClassifier
+    from hate_ita.classifier import HateSpeechClassifier
     hc = HateSpeechClassifier()
 
     hc.predict(["ti odio", "come si fa a rompere la lavatrice porca puttana"])
@@ -54,7 +54,7 @@ We release three models (see the paper for reference).
 
 .. code-block:: python
 
-    from hate-ita.classifier import HateSpeechClassifier
+    from hate_ita.classifier import HateSpeechClassifier
     hc = HateSpeechClassifier("twitter")
 
     hc = HateSpeechClassifier("base")
