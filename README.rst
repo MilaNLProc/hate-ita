@@ -19,9 +19,14 @@ See the paper for additional details:
 
 Debora Nozza, Federico Bianchi, and Giuseppe Attanasio. 2022. HATE-ITA: New Baselines for Hate Speech Detection in Italian. In Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), pages 252–260, Seattle, Washington (Hybrid). Association for Computational Linguistics. `Link <https://aclanthology.org/2022.woah-1.24/>`_
 
-----------
 
-* Free software: MIT license
+
+License
+-------
+
+Code comes from HuggingFace and thus our License is an MIT license.
+
+For models restriction may apply on the data (which are derived from existing datasets) or Twitter (main data source). We refer users to the original licenses accompanying each dataset and Twitter regulations.
 
 Installing
 ----------
